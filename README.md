@@ -1,6 +1,6 @@
 # Libris JavaScript Client
 <p>
-    <img src="https://img.shields.io/badge/version-1.1.5-blue" alt="Libris">
+    <img src="https://img.shields.io/badge/version-1.2.1-blue" alt="Libris">
     <img src="https://img.shields.io/badge/status-maintained-forestgreen" alt="Libris">
 </p> 
 

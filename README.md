@@ -1,6 +1,6 @@
 # Libris JavaScript Client
 <p>
-    <img src="https://img.shields.io/badge/version-1.2.1-blue" alt="Libris">
+    <img src="https://img.shields.io/badge/version-1.2.2-blue" alt="Libris">
     <img src="https://img.shields.io/badge/status-maintained-forestgreen" alt="Libris">
 </p> 
 
@@ -15,7 +15,7 @@ Libris is an advanced documentation generation tool that automates the process o
 Libris works by analyzing the codebase and extracting relevant information, such as function signatures, class hierarchies, and variable descriptions. It then organizes this information into a structured and user-friendly format, generating documentation that is easy to navigate and understand. Libris supports multiple programming languages, making it a versatile tool for different development environments.
 <br>
 
-* [x] Supports C++, C, JavaScript Python, CLI and RESTAPI documentations.
+* [x] Supports C++, C, JavaScript, Python, CLI and RESTAPI documentations.
 * [x] Modern documentation layout.
 * [x] Automatically generate documentation from source code and docstring comments.
 * [x] Create custom pages using markdown, javascript and html.

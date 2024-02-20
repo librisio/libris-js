@@ -15,11 +15,13 @@ const {Client, Config} = require("./libris.js")
 const DOCUMENTATION = "https://libris.com/docs"
 const CONFIG_PATHS = [
     "./libris",
+    "./libris.json",
     "./libris.js",
     "./docs/config",
+    "./docs/config.json",
     "./docs/config.js",
 ];
-const CONFIG_PATHS_STR = `"./libris", "./libris.js", "./docs/config" and "./docs/config.js"`;
+const CONFIG_PATHS_STR = `"./libris", "./libris.json", "./libris.js", "./docs/config", "./docs/config.json" and "./docs/config.js"`;
 
 // ---------------------------------------------------------
 // CLI.

@@ -1,6 +1,6 @@
 {
     "name": "@librisio/libris",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "description": "Libris Client",
     "main": "libris.js",
     "keywords": [
@@ -22,5 +22,5 @@
     "dependencies": {
         "@vandenberghinc/vlib": "^1.3.0"
     },
-    "live_version": "1.2.1"
+    "live_version": "1.2.2"
 }
